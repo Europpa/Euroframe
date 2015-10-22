@@ -13,7 +13,7 @@ define('BASE_URL', 'http://localhost/Frame_git/');
 
 define('APP_NAME', 'Framework MVC');
 define('APP_SLOGAN', 'HI FRAMEWORK PHP');
-define('APP_COMPANY', 'Europpa Company');
+define('APP_COMPANY', 'Europpa');
 
 /*DB*/
 
